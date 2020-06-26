@@ -1,0 +1,23 @@
+
+#login{float:right;}
+
+
+#box{
+
+
+float: center;
+
+}
+
+
+#username{
+
+}
+
+
+#submit{
+	float: left;
+	margin-left: 85px;
+	color: black;
+	background-color: #f8f8f9;
+}
